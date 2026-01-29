@@ -1,0 +1,31 @@
+{
+  "id": "restored-keep-levels",
+  "title": "Restored Keep - Scene Levels Demo",
+  "description": "A demo of the Scene Levels functionality introduced as part of V14.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Tom Cartos",
+      "url": "https://www.tomcartos.com/"
+    },
+    {
+      "name": "Atropos",
+      "url": "https://www.foundryvtt.com/"
+    }
+  ],
+  "packs": [
+    {
+      "name": "scenes",
+      "label": "Restored Keep",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
