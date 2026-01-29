@@ -38,6 +38,6 @@
   ],
   "url": "https://foundryvtt.com/packages/restored-keep-levels",
   "manifest": "",
-  "download": "",
-  "protected": false,
+  "download": "https://github.com/foundryvtt/restored-keep-levels/releases/download/release-1.0.0/restore-keep-levels-release-1.0.0.zip",
+  "protected": false
 }

@@ -1,0 +1,17 @@
+{
+  "name": "restored-keep-levels",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3"
+  },
+  "scripts": {
+    "compile": "fvtt package pack -n scenes --in packs/_source/scenes --out packs",
+    "extract": "fvtt package unpack -n scenes --in packs --out packs/_source/scenes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foundryvtt/restored-keep-levels.git"
+  },
+  "author": "Foundry Gaming, LLC",
+  "license": "UNLICENSED"
+}
