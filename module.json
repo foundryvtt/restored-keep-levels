@@ -27,5 +27,17 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/restored-keep-levels/assets/cover.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "url": "https://foundryvtt.com/packages/restored-keep-levels",
+  "manifest": "",
+  "download": "",
+  "protected": false,
 }
