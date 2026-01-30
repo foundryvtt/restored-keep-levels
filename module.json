@@ -4,7 +4,7 @@
   "description": "A demo of the Scene Levels functionality introduced as part of V14.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "14",
+    "minimum": "14.354",
     "verified": "14"
   },
   "authors": [
