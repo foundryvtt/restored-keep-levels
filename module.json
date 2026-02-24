@@ -2,9 +2,9 @@
   "id": "restored-keep-levels",
   "title": "Restored Keep - Scene Levels Demo",
   "description": "A demo of the Scene Levels functionality introduced as part of V14.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "14.354",
+    "minimum": "14.355",
     "verified": "14"
   },
   "authors": [
